@@ -41,7 +41,7 @@ nav a:hover {
 
 
 button {
-    background-color: #C239FF;
+    background-color: #350052;
     border: none;
     padding: 10px 20px;
     color: rgb(248, 245, 245);
@@ -68,7 +68,7 @@ button:hover {
 .clubinar {
     text-align: center;
     font-size: 50px;
-    color:#C239FF
+    color:#8F07CC;
 }
 
 .botão-club {
