@@ -1,10 +1,10 @@
-const Nutrir = () => {
+const Planos = () => {
   return (
     <div>
-      <h1>Nutrir</h1>
+      <h1>Planos</h1>
       <p>Welcome to the Nutrir page!</p>
     </div>
   );
 };
 
-export default Nutrir;
+export default Planos;

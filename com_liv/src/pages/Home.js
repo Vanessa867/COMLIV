@@ -6,9 +6,9 @@ const Home = () => {
       <header>
         <h1>ComLiv</h1>
         <nav>
-          <a href="/">Nutrir</a>
-          <a href="/pessoas">Pessoas</a>
-          <a href="/livros">Livros</a>
+          <a href="/Sobre">Sobre</a>
+          <a href="/Planos">Planos</a>
+          <a href="/ComoFunciona">ComoFunciona</a>
         </nav>
         <div>
           <a href="/cadastrar" className="registro-link">Cadastrar</a>
